@@ -1,0 +1,37 @@
+.wrapper {
+    background-color:azure;
+}
+
+.image1 {
+    
+    margin: -4%;
+    border-radius: 25px;
+    border: 10px solid transparent;
+    padding: 20px;
+    
+}
+
+.title {
+    margin-top: 110%;
+}
+
+.image2 {
+    margin: 20px;
+    border-radius: 25px;
+    border: 10px solid transparent;
+    padding: 20px;
+}
+
+.experience3 {
+    margin: 1%;
+}
+
+.experience {
+    margin: 80px;
+    border: 2px solid;
+}
+
+.experience2 {
+    margin: 80px;
+    border: 2px solid;
+}

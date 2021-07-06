@@ -4,15 +4,15 @@
 
 .image1 {
     
-    margin: -4%;
+    margin: -10px;
     border-radius: 25px;
     border: 10px solid transparent;
-    padding: 20px;
+   
     
 }
 
 .title {
-    margin-top: 110%;
+    padding: 30px;
 }
 
 .image2 {
@@ -20,10 +20,6 @@
     border-radius: 25px;
     border: 10px solid transparent;
     padding: 20px;
-}
-
-.experience3 {
-    margin: 1%;
 }
 
 .experience {
